@@ -1,0 +1,6 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="128" cy="76" r="8" transform="rotate(90 128 76)" fill="black" stroke="black" stroke-width="16"/>
+<circle cx="128" cy="129" r="8" transform="rotate(90 128 129)" fill="black" stroke="black" stroke-width="16"/>
+<circle cx="128" cy="179" r="8" transform="rotate(90 128 179)" fill="black" stroke="black" stroke-width="16"/>
+<circle cx="127.5" cy="127.5" r="89.5" stroke="black" stroke-width="16"/>
+</svg>
