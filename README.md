@@ -11,25 +11,35 @@ You are free to use any of this icons in your projects. They were made to work t
 
 
 # Examples
-Some icon previews:
-
 ## Filled/Outlined
-<img src="./filled/coffee.svg">
-<img src="./outlined/coffee.svg">
+Every filled version as an outlined one
+<div>
+  <img src="./filled/coffee.svg">
+  <img src="./outlined/coffee.svg">  
+</div>
 
-<img src="./filled/card.svg">
-<img src="./outlined/card.svg">
+<div>
+  <img src="./filled/card.svg">
+  <img src="./outlined/card.svg">  
+</div>
 
-<img src="./filled/bookmark.svg">
-<img src="./outlined/bookmark.svg">
+<div>
+  <img src="./filled/bookmark.svg">
+  <img src="./outlined/bookmark.svg">
+</div>
 
-<img src="./filled/sun.svg">
-<img src="./outlined/sun.svg">
+<div>
+  <img src="./filled/sun.svg">
+  <img src="./outlined/sun.svg">
+</div>
 
 ## Line
-<img src="./line/clip.svg">
-<img src="./line/fingerprint.svg">
-<img src="./line/power.svg">
-<img src="./line/scissor.svg">
+This icons don't have filled versions so they are unique
+<div>
+  <img src="./line/clip.svg">
+  <img src="./line/fingerprint.svg">
+  <img src="./line/power.svg">
+  <img src="./line/scissor.svg">  
+</div>
 
 
